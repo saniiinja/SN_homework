@@ -1,1 +1,1 @@
-# SN_homework
+# Smart Ninja Homework

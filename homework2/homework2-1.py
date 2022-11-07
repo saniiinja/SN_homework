@@ -1,7 +1,7 @@
 #unit converter
 
 print("Hello there!\n\n" +
-    "This is a small and very specific unit convertion program.\n" +
+    "This is a small and very specific unit conversion program.\n" +
     "Having a problem with understanding miles? This program will help you with that!\n")
 
 check = "Y"

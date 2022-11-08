@@ -1,1 +1,1 @@
-# Smart Ninja Homework
+# SmartNinja Homework

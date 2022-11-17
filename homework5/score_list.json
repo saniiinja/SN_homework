@@ -1,0 +1,73 @@
+[
+	{
+		"attempts": 2,
+		"date": "2022-11-13 18:39:25.440731",
+		"player": "Walter",
+		"secret_number": 25,
+		"wrong_guesses": [
+			23
+		]
+	},
+	{
+		"attempts": 7,
+		"date": "2022-11-13 18:37:42.497107",
+		"player": "Saul",
+		"secret_number": 4,
+		"wrong_guesses": [
+			23,
+			19,
+			15,
+			10,
+			7,
+			5
+		]
+	},
+	{
+		"attempts": 8,
+		"date": "2022-11-13 18:38:47.043982",
+		"player": "Jesse",
+		"secret_number": 20,
+		"wrong_guesses": [
+			1,
+			7,
+			19,
+			25,
+			23,
+			22,
+			21
+		]
+	},
+	{
+		"attempts": 2,
+		"date": "2022-11-13 18:40:15.101135",
+		"player": "Mike",
+		"secret_number": 24,
+		"wrong_guesses": [
+			19
+		]
+	},
+	{
+		"attempts": 5,
+		"date": "2022-11-16 21:37:37.408058",
+		"player": "Sanja",
+		"secret_number": 9,
+		"wrong_guesses": [
+			20,
+			15,
+			10,
+			8
+		]
+	},
+	{
+		"attempts": 5,
+		"date": "2022-11-16 22:02:22.450421",
+		"player": "romi",
+		"secret_number": 23,
+		"wrong_guesses": [
+			4,
+			9,
+			15,
+			20
+		]
+	}
+]
